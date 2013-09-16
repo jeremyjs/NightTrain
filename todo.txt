@@ -1,0 +1,8 @@
+Add contact form page
+white background for content
+layout width?
+blue font color
+fix white flash on page load
+add local backups for cdns
+navigation.ai?
+show favicon
